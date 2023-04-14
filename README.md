@@ -2,6 +2,8 @@
  Gettrx Test
 
 Wordpress Access
+ 
+url Live Site: https://gettrxtest.luisgarciafrade.com
 
 adminGettrx
 kE27G@Idnmg2cdzl
