@@ -502,5 +502,8 @@ background:#fff !important;
 }
 .rangeslider__handle{
 background: #0033A0 !important;
+}
+select.ff-el-form-control:not([size]):not([multiple]){
+	height:45px !important;
 }.slide-range{
 }
